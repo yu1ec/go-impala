@@ -19,8 +19,9 @@ Issues and contributions are welcome.
 
 ## Install
 
+```
 go get github.com/bippio/go-impala
-
+```
 
 ## Connection Parameters and DSN
 
@@ -76,7 +77,7 @@ import (
 	"database/sql"
 	"log"
 
-	impala "github.com/bippio/go-impala"
+	impala "go-impala"
 )
 
 func main() {
