@@ -20,7 +20,7 @@ Issues and contributions are welcome.
 ## Install
 
 ```
-go get github.com/bippio/go-impala
+go get github.com/yu1ec/go-impala
 ```
 
 ## Connection Parameters and DSN

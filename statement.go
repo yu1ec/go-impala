@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/n0dev/go-impala/hive"
+	"github.com/yu1ec/go-impala/hive"
 )
 
 // Stmt is statement

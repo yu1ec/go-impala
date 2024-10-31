@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"time"
 	thrift "github.com/apache/thrift/lib/go/thrift"
-	"github.com/n0dev/go-impala/services/hive_metastore"
+	"github.com/yu1ec/go-impala/services/hive_metastore"
 
 )
 

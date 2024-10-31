@@ -1,4 +1,4 @@
-module github.com/n0dev/go-impala
+module github.com/yu1ec/go-impala
 
 go 1.18
 

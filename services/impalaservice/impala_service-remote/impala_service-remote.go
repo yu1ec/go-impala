@@ -13,10 +13,10 @@ import (
 	"strconv"
 	"strings"
 	thrift "github.com/apache/thrift/lib/go/thrift"
-	"github.com/n0dev/go-impala/services/status"
-	"github.com/n0dev/go-impala/services/beeswax"
-	"github.com/n0dev/go-impala/services/cli_service"
-	"github.com/n0dev/go-impala/services/impalaservice"
+	"github.com/yu1ec/go-impala/services/status"
+	"github.com/yu1ec/go-impala/services/beeswax"
+	"github.com/yu1ec/go-impala/services/cli_service"
+	"github.com/yu1ec/go-impala/services/impalaservice"
 )
 
 var _ = status.GoUnusedProtection__

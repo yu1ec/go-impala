@@ -5,7 +5,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/n0dev/go-impala/services/cli_service"
+	"github.com/yu1ec/go-impala/services/cli_service"
 
 	"github.com/apache/thrift/lib/go/thrift"
 )
